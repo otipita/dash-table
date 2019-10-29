@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [4.5.0] - 2019-10-29 *
+## [4.5.0] - 2019-10-29
 ### Changed
 - [#554](https://github.com/plotly/dash-table/pull/554) Async loading of `xlsx` library on export
 
