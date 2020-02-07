@@ -60,7 +60,7 @@ export default class ColumnFilter extends PureComponent<IColumnFilterProps, ISta
                     e.stopPropagation();
                 }}
                 value={value}
-                placeholder={`filter data...`}
+                placeholder={`filtrar datos...`}
                 stopPropagation={true}
                 submit={this.submit}
             />
